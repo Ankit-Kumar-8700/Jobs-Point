@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Jobs-Point/static/css/main.b7961d78.css",
+    "main.js": "/Jobs-Point/static/js/main.c62dd7d4.js",
+    "static/js/787.b151e8e1.chunk.js": "/Jobs-Point/static/js/787.b151e8e1.chunk.js",
+    "static/media/logo.png": "/Jobs-Point/static/media/logo.3e253566d4eafcfa0200.png",
+    "index.html": "/Jobs-Point/index.html",
+    "main.b7961d78.css.map": "/Jobs-Point/static/css/main.b7961d78.css.map",
+    "main.c62dd7d4.js.map": "/Jobs-Point/static/js/main.c62dd7d4.js.map",
+    "787.b151e8e1.chunk.js.map": "/Jobs-Point/static/js/787.b151e8e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7961d78.css",
+    "static/js/main.c62dd7d4.js"
+  ]
+}
