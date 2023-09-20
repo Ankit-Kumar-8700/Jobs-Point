@@ -1,0 +1,23 @@
+.jobs{
+    color: rgba(0,0,0,0.4);
+}
+.noDataHandle{
+    font-size: 25px;
+    margin: 20vh 0px;
+    font-weight: 800;
+}
+.noDataHandle i{
+    font-size: 60px;
+}
+.load{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20vh 0;
+}
+.allJobs{
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 8%;
+}

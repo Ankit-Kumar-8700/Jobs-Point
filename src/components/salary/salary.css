@@ -1,0 +1,9 @@
+.salary{
+    color: rgba(0,0,0,0.4);
+}
+.accordion{
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 8%;
+}

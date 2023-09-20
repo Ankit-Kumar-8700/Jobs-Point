@@ -1,0 +1,48 @@
+.salNav{
+    padding: 10px;
+    background-color: rgba(0,0,0,0.4);
+}
+.salNavInput{
+    margin: 0 10px;
+}
+.salNavInput input{
+    margin: 0 10px;
+    padding: 2px;
+    background-color: #a9c63d;
+    color: #37470b;
+    font-weight: 700;
+}
+.salNavInput input:focus{
+    color: #a9c63d;
+    background-color: #37470b;
+}
+
+.salNav button{
+    cursor: pointer;
+    margin: 10px 0 0 0;
+    padding: 4px 8px;
+    font-size: 17px;
+    border-radius: 5px;
+    background-color: #697830;
+    color: #3c3907;
+}
+.salNav button:hover{
+    background-color: #1f2605;
+    color: #d6ce15;
+    border: 1px solid;
+    outline: 2px solid #1f2605;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+    -webkit-appearance: none;
+  -moz-appearance: textfield;
+  appearance: none;
+}
